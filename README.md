@@ -6,3 +6,5 @@ jai shree  ram
 added new branch 
 <br>
 lets speed up and stay calm bro
+<br>
+[git-cheat-sheet-education.pdf](https://github.com/user-attachments/files/20264694/git-cheat-sheet-education.pdf)
